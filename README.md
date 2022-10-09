@@ -26,6 +26,7 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floppadaddy&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=floppadaddy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 
