@@ -3,19 +3,14 @@
 **-** 🌱 I’m currently learning Rust, RUST, QT designer, Reverse Engineering
 **-** 👯 I’m looking to collaborate on Cheat Sources and Cracking Tools
 **-** 📫 How to reach me FloppaDaddy#1337 or discord.gg/agentproject
-<div id="header" align="center">
-  <a href="https://agentproject.ml">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="MY Website"/>
-  </a>
-  <a href="https://discord.gg/agentproject">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="MY Discord"/>
-  </a>
-</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100"/>
 </div>
 <img src="https://komarev.com/ghpvc/floppadaddy&style=flat-square&color=blue" alt=""/>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <!---
 floppadaddy/floppadaddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
