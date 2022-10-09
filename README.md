@@ -8,8 +8,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- ✋ I’m floppa daddy
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
+
+- ✋ I’m floppa daddy
 
 - :telescope: I’m currently working on Cheats for games
 
