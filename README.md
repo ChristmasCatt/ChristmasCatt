@@ -39,7 +39,7 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<img src="[https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1325315d75a00cdb1dc06935f982a3c1418e50ee3f0992de2ad2d2b6edbc2619/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7265616c6c726561706572267468656d653d68696768636f6e7472617374"><img align="center" src="https://camo.githubusercontent.com/1325315d75a00cdb1dc06935f982a3c1418e50ee3f0992de2ad2d2b6edbc2619/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7265616c6c726561706572267468656d653d68696768636f6e7472617374" alt="reallreaper" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=reallreaper&amp;theme=highcontrast" style="max-width: 100%;"></a></p>
 [![GitHub Streak]
 
 <!---
