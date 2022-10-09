@@ -25,8 +25,8 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floppadaddy&show_icons=true&theme=radical)
 
-<p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="FloppaDaddy" data-canonical-src="https://github-readme-stats.vercel.app/api?username=floppadaddy&amp;show_icons=true&amp;theme=tokyonight&amp;locale=en" style="max-width: 100%;"></a></p>
 <!---
 
 floppadaddy/floppadaddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
