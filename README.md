@@ -40,7 +40,7 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5badcaae82bd73e5606f741ed71983055f8699041667b4e14d1f62465e2c9d4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7265616c6c7265617065722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/5badcaae82bd73e5606f741ed71983055f8699041667b4e14d1f62465e2c9d4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7265616c6c7265617065722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c6f63616c653d656e" alt="FloppaDaddy" data-canonical-src="https://github-readme-stats.vercel.app/api?username=floppadaddy&amp;show_icons=true&amp;theme=tokyonight&amp;locale=en" style="max-width: 100%;"></a></p>
+<p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="FloppaDaddy" data-canonical-src="https://github-readme-stats.vercel.app/api?username=floppadaddy&amp;show_icons=true&amp;theme=tokyonight&amp;locale=en" style="max-width: 100%;"></a></p>
 <!---
 
 floppadaddy/floppadaddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
