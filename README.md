@@ -4,10 +4,10 @@
 **-** 👯 I’m looking to collaborate on Cheat Sources and Cracking Tools
 **-** 📫 How to reach me FloppaDaddy#1337 or discord.gg/agentproject
 <div id="header" align="center">
-  <a href="agentproject.ml">
+  <a href="https://agentproject.ml">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="MY Website"/>
   </a>
-  <a href="discord.gg/agentproject">
+  <a href="https://discord.gg/agentproject">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="MY Discord"/>
   </a>
 </div>
