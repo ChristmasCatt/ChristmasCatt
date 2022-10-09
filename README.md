@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :zap: I’m floppa daddy
+- ✋ I’m floppa daddy
 
 
 - :telescope: I’m currently working on Cheats for games
