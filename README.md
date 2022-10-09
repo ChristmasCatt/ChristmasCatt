@@ -17,7 +17,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/floppadaddy&style=flat-square&color=blue" alt=""/>
 
 <!---
 floppadaddy/floppadaddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
