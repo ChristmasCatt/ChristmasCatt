@@ -1,8 +1,4 @@
-**-** 👋 Hi, I’m floppa daddy
-**-** 🔭 I’m currently working on Cheats for games
-**-** 🌱 I’m currently learning Rust, RUST, QT designer, Reverse Engineering
-**-** 👯 I’m looking to collaborate on Cheat Sources and Cracking Tools
-**-** 📫 How to reach me FloppaDaddy#1337 or discord.gg/agentproject
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100"/>
@@ -11,7 +7,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-**-** 👋 Hi, I’m floppa daddy
+- 🤙 Hi, I’m floppa daddy
 - :telescope: I’m currently working on Cheats for games
 
 - :seedling: I’m currently learning Rust, RUST, QT designer, Reverse Engineering
