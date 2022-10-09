@@ -3,7 +3,7 @@
 **-** 🌱 I’m currently learning Rust, RUST, QT designer, Reverse Engineering
 **-** 👯 I’m looking to collaborate on Cheat Sources and Cracking Tools
 **-** 📫 How to reach me FloppaDaddy#1337 or discord.gg/agentproject
-<div id="header" align="center">>
+<div id="header" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
