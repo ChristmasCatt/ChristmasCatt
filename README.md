@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/avatars/930421193012568074/ce275f1157ff40c2383ab87addb8bec5.png?size=1024" width="64" height="64" alt="Xiloe's rat"/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Xiloe&label=Profile%20views&color=0e75b6&style=flat" alt="Xiloe" />
+  <img src="https://komarev.com/ghpvc/?username=FloppaDaddy&label=Profile%20views&color=0e75b6&style=flat" alt="Xiloe" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Xiloe</h1>
