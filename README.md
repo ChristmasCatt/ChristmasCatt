@@ -1,5 +1,7 @@
 
-I am Floppa / alex(my real name):heart:,who is very passionate about web application development and application security since when I was 7 years old. I have 4+ years of proven experience in this field. I am very interested in software development and penetration testing. Apart from that, I'm developing applications and a video editor.:video_game: Love to explore new things every day as a hobby.:pleading_face:
+I am Floppa / alex (my real name):heart:,who is very passionate about web application development and application security since when I was 7 years old. 
+I have 4+ years of proven experience in this field. 
+I am very interested in software development and penetration testing. Apart from that, I'm developing applications and a video editor.:video_game: Love to explore new things every day as a hobby.:pleading_face:
 
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif](https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966)" width="100"/>
