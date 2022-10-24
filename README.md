@@ -12,7 +12,7 @@
 
 - 🎯 I would like to make my own company one day:)
 
-- ⚡ Currently working on nothing.. :(
+- ⚡ Currently working on agent.project :)
 
 - 🏆 I casually make cheats on games. I usually like to bother Hi-Rez Studios :)
 
