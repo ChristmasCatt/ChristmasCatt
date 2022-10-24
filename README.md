@@ -1,5 +1,5 @@
 
-I am Floppa / alex (my real name):heart:,who is very passionate about web application development and application security since when I was 7 years old. 
+I am Floppa / alex (my real name)😎💕,who is very passionate about web application development and application security since when I was 7 years old. 
 I have 4+ years of proven experience in this field. 
 I am very interested in software development and penetration testing. Apart from that, I'm developing applications and a video editor.:video_game: Love to explore new things every day as a hobby.:pleading_face:
 
