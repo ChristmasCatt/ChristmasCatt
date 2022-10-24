@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Xiloe?theme=rule34" />
+  <img src="https://count.getloli.com/get/@floppadaddy?theme=rule34" />
 </p>
