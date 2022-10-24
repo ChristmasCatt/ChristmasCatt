@@ -25,7 +25,7 @@ I am Floppa/ alex (real name)💕😊,who is very passionate about application d
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloppaDaddy&show_icons=true&theme=radical)
 
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloppaDaddy&theme=tokyonight)
 
 </a>
 
