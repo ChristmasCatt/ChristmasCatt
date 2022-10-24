@@ -1,9 +1,11 @@
 
 
 <div id="header" align="center">
-  <img src="[https://cdn.discordapp.com/attachments/930741053353512980/1034068534755598417/typing_kitty.gif]([https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://cdn.discordapp.com/attachments/930741053353512980/1034068534755598417/typing_kitty.gif))" width="100"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 </div>
-<img src="https://komarev.com/ghpvc/floppadaddy&style=flat-square&color=blue" alt=""/>
+
 
 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
