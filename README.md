@@ -21,9 +21,10 @@ I am Floppa/ alex (real name)💕😊,who is very passionate about application d
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/floppadaddy'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloppaDaddy&show_icons=true&theme=radical)
+
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
