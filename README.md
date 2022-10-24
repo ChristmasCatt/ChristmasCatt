@@ -10,7 +10,7 @@
 <h4 align="center">🎮 Love to explore new things and make applications every day as a hobby and enjoy life.😁😉</h4>
 
 
-- 🎯 I would like to make my own company one day, just for fun :)
+- 🎯 I would like to make my own company one day:)
 
 - ⚡ Currently working on nothing.. :(
 
