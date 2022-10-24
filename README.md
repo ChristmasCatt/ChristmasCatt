@@ -5,7 +5,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/floppadaddy&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://cdn.discordapp.com/attachments/930741053353512980/1034068534755598417/typing_kitty.gif)" width="600" height="300"/>
 </div>
 
 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
