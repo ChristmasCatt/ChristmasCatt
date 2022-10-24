@@ -1,39 +1,28 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/51050533?v=4" width="64" height="64" alt="Xiloe's rat"/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Xiloe&label=Profile%20views&color=0e75b6&style=flat" alt="Xiloe" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Xiloe</h1>
 
+- 🎯 I would like to make [my own OS](https://github.com/Xiloe/SimpleOS) from scratch, just for fun :)
 
-I am Floppa/ alex (real name)💕😊,who is very passionate about application development and application security since when I was 8 years old. I have 4+ years of proven experience in this field. I am very interested in software development and penetration testing ✔️. Apart from that, I'm developing applications and a video editor.🎮 Love to explore new things and make applications every day as a hobby and enjoy life.😁😉
+- ⚡ Currently working on nothing.. :(
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+- 🏆 I casually make cheats on games. I usually like to bother Hi-Rez Studios :)
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+<hr/>
 
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/665728472647204886.png" alt="cu-chi" /> </p>
+<p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Xiloe&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
 
+<p align="center">
+  <a href="https://github.com/Xiloe">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xiloe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiloe&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  </a>
+</p>
 
-
-### 📊 Github Stats
-<a href='https://github.com/floppadaddy'>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloppaDaddy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloppaDaddy&theme=tokyonight)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-
-
-<a href="https://agentproject.ml/" target="_blank"> <img alt="png1" src="https://cdn.discordapp.com/attachments/930741053353512980/1034077247801393192/2022-10-24_151335.png"  height="270" align="left"> </a>
-<a href="https:/discord.gg/agentproject" target="_blank"> <img alt="png1" src="https://cdn.discordapp.com/attachments/1028344880755388526/1028399615587909682/1111111111.png"  height="350" align="left"> </a>
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@Xiloe?theme=rule34" />
+</p>
