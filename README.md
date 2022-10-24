@@ -31,6 +31,7 @@ I am Floppa/ alex (real name)💕😊,who is very passionate about application d
 <br>
 
 ### 🛠️ My Projects
-<a href="https://agentproject.ml" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https:/discord.gg/agentproject" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://agentproject.ml" target="_blank"> <img alt="png3.png" src="./projects/png3.png" height="68" align="left"> </a>
+<a href="https:/discord.gg/agentproject" target="_blank"> <img alt="png2" src="./projects/png2.png"  height="68" align="left"> </a>
+<a href="https:/discord.gg/agentproject" target="_blank"> <img alt="png1" src="./projects/png1.png"  height="68" align="left"> </a>
 
