@@ -5,7 +5,7 @@
 
 <h4 align="center">Hi 👋, I am Floppa/ alex (real name)💕😊,who is very passionate about application development and application security since when I was 8 years old.
 
-I have 4+ years of proven experience in this field. I am very interested in software development and penetration testing ✔️. Apart from that, I'm developing applications and a video editor.
+I have 4+ years of proven experience in this field. I am very interested in software development and penetration testing ✔️. Apart from that, I'm developing applications and a video editor📸.
 
 🎮 Love to explore new things and make applications every day as a hobby and enjoy life.😁😉</h4>
 
