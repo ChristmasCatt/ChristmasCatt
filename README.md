@@ -14,7 +14,7 @@
 
 - ⚡ Currently working on agent.project :)
 
-- 🏆 I casually make cheats on games. I usually like to bother Hi-Rez Studios :)
+- 🏆 I casually make cheats on games. I usually like to troll people :)
 
 <hr/>
 
