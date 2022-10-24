@@ -22,9 +22,9 @@
 <p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=floppadaddy&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
 
 <p align="center">
-  <a href="https://github.com/Xiloe">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xiloe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiloe&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <a href="https://github.com/floppadaddy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=floppadaddy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=floppadaddy&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
   </a>
 </p>
 
