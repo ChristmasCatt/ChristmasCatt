@@ -12,7 +12,7 @@
 
 - 🎯 I would like to make my own company one day:)
 
-- ⚡ Currently working on nothing :)
+- ⚡ Currently working on My own OS :)
 
 - 🏆 I casually Doing E-commerce. I usually like to troll people :)
 
