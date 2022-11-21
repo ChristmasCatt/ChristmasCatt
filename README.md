@@ -12,9 +12,9 @@
 
 - 🎯 I would like to make my own company one day:)
 
-- ⚡ Currently working on agent.project :)
+- ⚡ Currently working on nothing :)
 
-- 🏆 I casually make cheats on games. I usually like to troll people :)
+- 🏆 I casually Doing E-commerce. I usually like to troll people :)
 
 <hr/>
 
