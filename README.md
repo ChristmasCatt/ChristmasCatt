@@ -28,6 +28,4 @@
   </a>
 </p>
 
-/* <p align="center">
-  <img src="https://count.getloli.com/get/@Christmas_Cat?theme=rule34" />
-</p>*/
+
