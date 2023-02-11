@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s3.eu-west-3.amazonaws.com/moovijob.prod/2037815/conversions/135456_375555-thumb.jpg" width="64" height="64" alt="ChristmasCatt"/><br/>
+  <img src="https://avatars0.githubusercontent.com/u/44649257?s=400&v=4" width="64" height="64" alt="ChristmasCatt"/><br/>
   <img src="https://komarev.com/ghpvc/?username=ChristmasCatt&label=Profile%20views&color=0e75b6&style=flat" alt="ChristmasCatt" />
 </p>
 
