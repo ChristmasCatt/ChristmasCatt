@@ -14,7 +14,7 @@
 
 - ⚡ Currently working on My own OS :)
 
-- 🏆 I casually Doing E-commerce. I usually like to troll people :)
+🏆 I'm a student at school right now. I enjoy learning new things and expanding my knowledge on different subjects.
 
 <hr/>
 
