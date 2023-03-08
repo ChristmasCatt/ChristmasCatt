@@ -12,7 +12,7 @@
 
 - 🎯 I would like to make my own company one day:)
 
-- ⚡ Currently working on My own OS :)
+- ⚡ Currently working on AGLoader :)
 
 - 🏆 I'm a student at school right now. I enjoy learning new things and expanding my knowledge on different subjects.
 
